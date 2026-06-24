@@ -1,9 +1,11 @@
-# 🛠️ Custom Command BP (Behavior Pack)
+# 🛠️ Custom Command (Behavior Pack)
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock%201.21.100%2B-green.svg)](#)
 [![API](https://img.shields.io/badge/API-%40minecraft%2Fserver%202.1.0-blue.svg)](#)
 [![License](https://img.shields.io/badge/License-Open%20Source-orange.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20iOS%20%7C%20Xbox-lightgrey.svg)](#)
+
+![Logo](preview/Custom-Command.png)
 
 **Custom Command BP** adalah kerangka kerja (*framework*) berbasis Script API (`@minecraft/server`) untuk Minecraft Bedrock Edition. Addon ini memungkinkan pembuat konten (*creators*) dan administrator dunia untuk mendaftarkan serta mengelola perintah kustom (*custom commands*) dengan sangat mudah melalui konfigurasi JavaScript terpusat.
 
@@ -75,6 +77,11 @@ Anda hanya perlu menambahkan objek konfigurasi baru untuk mendaftarkan perintah 
 ```
 
 ---
+
+## 📷 Screenshoot
+![Logo](preview/pre1.png)
+
+![Logo](preview/pre2.png)
 
 ## 🤝 Lisensi & Kontribusi Komunitas
 
