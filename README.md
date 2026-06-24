@@ -7,7 +7,7 @@
 
 ![Logo](preview/Custom-Command.png)
 
-**Custom Command BP** adalah kerangka kerja (*framework*) berbasis Script API (`@minecraft/server`) untuk Minecraft Bedrock Edition. Addon ini memungkinkan pembuat konten (*creators*) dan administrator dunia untuk mendaftarkan serta mengelola perintah kustom (*custom commands*) dengan sangat mudah melalui konfigurasi JavaScript terpusat.
+**Custom Command** adalah kerangka kerja (*framework*) berbasis Script API (`@minecraft/server`) untuk Minecraft Bedrock Edition. Addon ini memungkinkan pembuat konten (*creators*) dan administrator dunia untuk mendaftarkan serta mengelola perintah kustom (*custom commands*) dengan sangat mudah melalui konfigurasi JavaScript terpusat.
 
 ---
 
@@ -79,9 +79,9 @@ Anda hanya perlu menambahkan objek konfigurasi baru untuk mendaftarkan perintah 
 ---
 
 ## 📷 Screenshoot
-![Logo](preview/pre1.png)
+![Logo](preview/pre1.jpeg)
 
-![Logo](preview/pre2.png)
+![Logo](preview/pre2.jpeg)
 
 ## 🤝 Lisensi & Kontribusi Komunitas
 
