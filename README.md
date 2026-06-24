@@ -1,3 +1,4 @@
+![Logo](Custon-Command.png)
 Custom Command adalah sebuah proyek addon berbasis Script API (`@minecraft/server`) untuk Minecraft: Bedrock Edition. Addon ini dirancang sebagai pustaka atau kerangka kerja sederhana yang mempermudah pendaftaran dan pengelolaan perintah kustom dengan dukungan sistem izin berbasis tag dan status Operator (OP).
 
 Addon ini menjembatani keterbatasan perintah bawaan Minecraft dengan memanfaatkan Javascript di Bedrock Scripting API. Dengan addon ini, pengembang dapat:
