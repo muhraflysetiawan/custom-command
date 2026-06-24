@@ -1,0 +1,26 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "by @ItzRaflyReal",
+        "name": "Custom Command",
+        "uuid": "349aa2ae-1a46-4031-95a4-18e8b0074c5a",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 100]
+    },
+    "modules": [
+        {
+            "description": "Custom Command Scripts",
+            "language": "javascript",
+            "type": "script",
+            "uuid": "f520bd1f-e311-46e1-aed8-9b27f4a616c3",
+            "version": [1, 0, 0],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.1.0"
+        }
+    ]
+}
